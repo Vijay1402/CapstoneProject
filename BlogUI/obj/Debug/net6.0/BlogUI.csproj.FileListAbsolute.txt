@@ -1,0 +1,8 @@
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.csproj.AssemblyReference.cache
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.AssemblyInfoInputs.cache
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.AssemblyInfo.cs
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.csproj.CoreCompileInputs.cache
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.MvcApplicationPartsAssemblyInfo.cache
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.RazorAssemblyInfo.cache
+G:\Capstone\BlogUI\obj\Debug\net6.0\BlogUI.RazorAssemblyInfo.cs

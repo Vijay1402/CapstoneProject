@@ -1,0 +1,32 @@
+﻿@model BlogLib.BlogInfo
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <h2>All Blogs</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Subject</th>
+                <th>Date of Creation</th>
+                <th>Blog URL</th>
+                <th>Author Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var blog in Model)
+            {
+                <tr>
+                    <td>@blog.Title</td>
+                    <td>@blog.Subject</td>
+                    <td>@blog.DateOfCreation</td>
+                    <td>@blog.BlogUrl</td>
+                    <td>@blog.EmpEmailId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
